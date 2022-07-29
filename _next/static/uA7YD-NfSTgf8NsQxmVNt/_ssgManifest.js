@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Ftags","\u002F","\u002Fheatmap\u002F[category]","\u002Fmonth-stats\u002F[category]","\u002Fyear-stats\u002F[category]","\u002Fpages\u002F[category]\u002F[page]","\u002Fpreviews\u002F[id]","\u002Ftracks\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
